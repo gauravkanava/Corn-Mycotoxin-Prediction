@@ -80,5 +80,5 @@ Open the provided `.ipynb` file and execute the cells in sequential order.
 - Utilize advanced hyperparameter tuning strategies.
 - Consider deploying a Streamlit app for interactive predictions.
 
-For any issues, feel free to reach out!
+For any suggestions, feel free to reach out!
 
