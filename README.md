@@ -51,9 +51,9 @@ Open the provided `.ipynb` file and execute the cells in sequential order.
     |-- data/
         |-- TASK.csv (Hyperspectral dataset with spectral reflectance values)
     |-- notebooks/
-        |-- Assignmnet_by_14.ipynb (Main Jupyter Notebook for analysis and modeling)
+        |-- Assignmnet_Code.ipynb (Main Jupyter Notebook for analysis and modeling)
     |-- reports/
-        |-- short_report.md (Summary of findings and improvements)
+        |-- Report.md (Summary of findings and improvements)
     |-- README.md (This file, with installation and usage instructions)
 ```
 
