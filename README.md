@@ -1,8 +1,25 @@
 ## Project Title: Hyperspectral Imaging Analysis for Mycotoxin Prediction
 
-### Overview
-
 This project involves processing hyperspectral imaging data, performing dimensionality reduction, and developing a machine learning model to predict mycotoxin levels (DON concentration) in corn samples. It includes data cleaning, normalization, spectral visualization, PCA/t-SNE analysis, and predictive modeling using Random Forest or other ML techniques.
+
+---
+
+## 📌 Project Highlights
+
+- ✅ **Data Preprocessing**: Cleaning, normalization, and preparation of high-dimensional spectral data.
+- 📉 **Dimensionality Reduction**: Applied PCA and t-SNE for visualization and noise reduction.
+- 📈 **Predictive Modeling**: Used Random Forest Regressor and evaluated performance using R² and MSE.
+- 📊 **Visualization**: Spectral reflectance trends and model behavior insights.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Pandas, NumPy  
+- Scikit-learn (`sklearn`)  
+- Matplotlib, Seaborn  
+- SciPy (`scipy.stats`)
 
 ---
 
